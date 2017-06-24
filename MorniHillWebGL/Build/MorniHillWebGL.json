@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "MorniHillWebGL.data.unityweb",
+"asmCodeUrl": "MorniHillWebGL.asm.code.unityweb",
+"asmMemoryUrl": "MorniHillWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "MorniHillWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
